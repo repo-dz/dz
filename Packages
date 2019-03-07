@@ -1,0 +1,13 @@
+Package: dz.medhmd.locationfaker8
+Name: LocationFaker(8,9,10,11)
+Version: 2.2
+Size: 450370
+Architecture: iphoneos-arm
+Description: تغيير موقعك لأي مكان تريده
+Maintainer: (MohameD HmD) <pypliste@gmail.com>
+Author: Cunstuck <cunstuck@gmail.com>
+Section: Tweaks
+MD5sum: 2493eb5860f2fab9fc3ccb1bd7d050ff
+Filename: debs//dz.medhmd.locationfaker8_2.2.deb
+Depends: mobilesubstrate
+Depiction: https://medhmd.github.io/dz/depictions/?p=dz.medhmd.locationfaker
